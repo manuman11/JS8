@@ -6,7 +6,7 @@ while(prenom=true)
     num++;
         
     if(prenom==""){
-        alert("Vous avez cliqué sur Annuler");
+        alert("Fin de saisie");
         break;
     }
             
@@ -17,3 +17,5 @@ while(prenom=true)
         
 }
         alert("Vérifiez en Console (F12), ce que vous venez de saisir...")
+
+//ce n'est pas tout à fait le resultat que je souhaitais mais je ne peux mieux faire dans l'etat actuel de mes connaissances :)
